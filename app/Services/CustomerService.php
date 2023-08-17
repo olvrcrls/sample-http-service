@@ -3,7 +3,6 @@
 namespace App\Services;
 
 use App\Base\BaseClient;
-use Pictureworks\Zenworks\Helper;
 
 class CustomerService extends BaseClient
 {
